@@ -1,0 +1,17 @@
+.nanj_prompt_table img {
+    max-width: 240px;
+    max-height: 240px;
+}
+
+.nanj_prompt_table textarea {
+    width: 100%;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.nanj_prompt_table_cell {
+    display: flex;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+}
